@@ -10,7 +10,7 @@ Português:
 
 - 👋 Oi, eu sou @Gabriellereno, sou um desenvolvedor front-end React JS. Portfólio: https://gabriellereno.github.io/
 - 👀 Estou interessado no meu progresso educacional, procurando por cursos, dicas e exercícios que envolvem minha área.
-- 🌱 Estou aprendendo todos os dias mais de JavaScript, React e Redux.
+- 🌱 Estou aprendendo todos os dias mais de TypeScript.
 - 💞️ Estou procurando colaborar com pessoas que tem o desejo de aprender a programar em JavaScript. Estou elaborando cursos e aulas gratuitas para ajudar essa comunidade que só cresce.
 - 📫 Podem me contatar através do meu LinkedIn https://www.linkedin.com/in/gabriel-zanella-lereno-490885230/ ou e-mail: gabrielzlereno@outlook.com.
 
